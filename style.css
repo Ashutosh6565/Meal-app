@@ -1,0 +1,16 @@
+#search-results img {
+    max-width: 150px;
+    margin-right: 10px;
+}
+
+#search-results div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#favorite-meals img {
+    max-width: 150px;
+    margin-right: 10px;
+}
